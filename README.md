@@ -34,13 +34,7 @@ This section showcases the projects I've worked on.
 
 ### [Banana Farmer Game](https://karjon7.itch.io/banana-farmer-game)
 
-- **Description**: The Banana Farmer Game is a project that evolved through three distinct versions:
-  - Version 1 was crafted using HTML, CSS, and JS in VSCode, showcasing my early experimentation with game development.
-  - Version 2 was developed with GDevelop, further exploring different game development tools and workflows.
-  - Version 3, linked here, was created in the Godot Engine, representing the culmination of my learning journey up to that point.
-
-  Regrettably, Versions 1 and 2 are now considered lost media, with only Version 3 surviving. Despite its potential, Version 3 never progressed beyond the alpha stage due to life circumstances intervening. Nonetheless, the Banana Farmer Game stands as a testament to my growth as a developer and the diverse paths my creative endeavors have taken, with hopes of a future remaster to honor my early game development journey.
-
+- **Description**: The Banana Farmer Game is a project that evolved through three distinct versions. Version 1 was crafted using HTML, CSS, and JS in VSCode, showcasing my early experimentation with game development. Version 2 was developed with GDevelop, further exploring different game development tools and workflows. Version 3, linked here, was created in the Godot Engine, representing the culmination of my learning journey up to that point. Regrettably, Versions 1 and 2 are now considered lost media, with only Version 3 surviving. Despite its potential, Version 3 never progressed beyond the alpha stage due to life circumstances intervening. Nonetheless, the Banana Farmer Game stands as a testament to my growth as a developer and the diverse paths my creative endeavors have taken, with hopes of a future remaster to honor my early game development journey.
 - **Development Period**: 2020 - 2022
 - **Role**: Sole Developer
 - **Status**: Cancelled (2022)
