@@ -57,7 +57,7 @@ This section consists of ideas I would like to act on in the future but are not 
 - **Description**: A fixed camera, horror-themed game exploring the eerie atmosphere of storage facilities. (Work in Progress)
 - **Planned Production Date**: Early 2025
 
-### Banana Farmer ([Banana Farmer Game](https://karjon7.itch.io/banana-farmer-game) Remaster)
+### Banana Farmer ([Banana Farmer Game](https://karjon7.itch.io/banana-farmer-game) Remake)
 
 - **Inspiration**: Banana Farmer Game
 - **Description**: A remake of my first-ever game idea.
