@@ -31,9 +31,9 @@ This section showcases the projects I've worked on.
 ### [Fully Armed Defense](https://github.com/Dressed-to-Kill-Studios/Fully-Armed-Defense) (DTK)
 
 - **Description**: An engaging wave shooter where your mission is to protect the Harvester. Upgrade your character's abilities and weaponry to fend off increasingly challenging waves of enemies.
-- **Development Period**: 2024-
+- **Development Period**: 2024 - On going
 - **Role**: Sole Developer
-- **Status**: In Development
+- **Status**: Paused
 
 ### [Banana Farmer Game](https://karjon7.itch.io/banana-farmer-game)
 
