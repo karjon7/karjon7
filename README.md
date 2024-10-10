@@ -17,6 +17,7 @@ Hello, I'm **Jon-Marc Redwood**, the founder of [Dressed to Kill Studios (DTK)](
 ### Programming Languages
 
 - GDScript (Very Proficient)
+- C# (Proficient)
 - Python (Proficient)
 - HTML, CSS, JS (Intermediate)
 - Lua (Intermediate)
@@ -27,6 +28,13 @@ Hello, I'm **Jon-Marc Redwood**, the founder of [Dressed to Kill Studios (DTK)](
 ## Projects
 
 This section showcases the projects I've worked on.
+
+### [Boxed In](https://github.com/Dressed-to-Kill-Studios/Boxed-In) (DTK)
+
+- **Description**: TBD
+- **Development Period**: 2024 - On going
+- **Role**: Sole Developer
+- **Status**: In Develeopment!
 
 ### [Fully Armed Defense](https://github.com/Dressed-to-Kill-Studios/Fully-Armed-Defense) (DTK)
 
@@ -47,15 +55,6 @@ This section showcases the projects I've worked on.
 ## Future Ideas
 
 This section consists of ideas I would like to act on in the future but are not guaranteed.
-
-### Stowed Away
-
-- **Inspiration**:
-  - Resident Evil 1 Remake by CAPCOM
-  - Dead Seater by Zeekers
-  - Liminality of storage facilities
-- **Description**: A fixed camera, horror-themed game exploring the eerie atmosphere of storage facilities. (Work in Progress)
-- **Planned Production Date**: Early 2025
 
 ### Banana Farmer ([Banana Farmer Game](https://karjon7.itch.io/banana-farmer-game) Remake)
 
